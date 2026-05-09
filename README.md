@@ -2,6 +2,8 @@
 
 A modern, full-stack coffee shop ordering system built with React, Node.js, Express, and MongoDB. Features real-time order tracking, admin dashboard, secure payments, and a beautiful responsive UI.
 
+Live URL: https://caffio-coffee.netlify.app/
+
 ## 🚀 Features
 
 ### Customer Features
